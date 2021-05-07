@@ -1,0 +1,3 @@
+subject_id	predicate_id	object_id	confidence	match_type
+XPO:0000000	skos:exactMatch	HP:0001257	1.0	HumanCurated
+

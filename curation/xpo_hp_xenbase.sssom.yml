@@ -1,0 +1,11 @@
+curie_map:
+  HP: http://purl.obolibrary.org/obo/HP_
+  XPO: http://purl.obolibrary.org/obo/XPO_
+  skos: http://www.w3.org/2004/02/skos/core
+license: https://creativecommons.org/publicdomain/zero/1.0/
+mapping_provider: http://xenbase.org/
+mapping_set_group: upheno_mappings
+mapping_set_id: mp_hp_xenbase
+mapping_set_title: 'The uPheno Ontology Mappings: XPO-HP, curated by XenBase'
+object_source: http://purl.obolibrary.org/hp.owl
+subject_source: http://purl.obolibrary.org/xpo.owl
