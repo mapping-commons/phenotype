@@ -23,3 +23,11 @@ In the first round, we focus here on collecting phenotype mappings between the f
 | Mammalian Phenotype Ontology | An ontology of Mammalian phenotypes |
 | Xenopus Phenotype Ontology | An ontology of phenotypic abnormalities in Xenopus |
 | Zebrafish Phenotype Ontology | An ontology of phenotypic abnormalities in Zebrafish |
+
+
+## Analysis
+
+TBD. Ideas:
+- Phenotypic profile matching between human disease profiles from HPOA with Xenopus phenotypic profiles
+- We could see how much phenolog candidates can be confirmed by known genetic profiles (compare set of genes implicated by a phenotype in one organism to the set of phenotypes in another in terms of genetic orthology)
+- Compare whether we can somehow confirm when an organism is a "known" model for a disease
